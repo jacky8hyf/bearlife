@@ -3,6 +3,6 @@ arcade games as challenges and award gems upon completion. It ends by having an 
 battle against the Stanfurd Tree. Uses Python3.x
 
 Demo:
-On Berkeley's instructional machines, execute:
-cd ~cs61a-ajr/bearlife/src
-./start
+On Berkeley's instructional machines, execute:<br />
+<code>cd ~cs61a-ajr/bearlife/src<br />
+./start</code>
