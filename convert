@@ -1,0 +1,2 @@
+#!/bin/sh
+java convert $1

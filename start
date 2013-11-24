@@ -1,0 +1,4 @@
+#!/bin/sh
+echo [?25l
+python3 Main.py
+echo [?25h
